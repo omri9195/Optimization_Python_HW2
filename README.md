@@ -18,7 +18,7 @@ In order to run the project please follow these steps:
          'venv\Scripts\activate'
 5. Install dependencies:
      'pip install -r requirements.txt'
-6. Run the project with either one of:
+6. Run the project with either one of:<br>
      'python -m tests.test_unconstrained_min' <br>
      'python -m tests.test_constrained_min'
 
